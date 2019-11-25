@@ -11,3 +11,6 @@ This repository contains all of the notes taken by [Janice] for the [Lighthouse 
 Learning how to use eslint to see errors and how to push finished work onto github
 
 [http://www.google.com](URL)
+
+- [Week 1](/Week_1)
+  - [Day 1](/Week_1/Day_1)
